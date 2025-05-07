@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AWS Security Identity Project 
 
 This project demonstrates the setup and configuraton of AWS IAM (Identity and Access Management) to manage secure access to AWS services.
@@ -53,3 +54,6 @@ The goal of this project is to:
 ## Conclusion
 
 This IAM Security Identity project demonstrates a practical understanding of managing AWS Identity and Access Management. From creating users and roles to assigning precise permissions and testing access control, each step reflects core principles of cloud security. By implementing IAM best practices, we ensure secure, organized, and auditable access to AWS resources, laying a strong foundation for secure cloud infrastructure.
+=======
+# aws-security-identity
+>>>>>>> 3b444f8e721fda735b5aac8695e40175113fa4ff
