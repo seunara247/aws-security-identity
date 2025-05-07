@@ -27,7 +27,7 @@ The goal of this project is to:
 
 - add the user to a group
 
-## Attaching IAM Policies
+## IAM Policies
 
 - on the IAM Dashboard click on policies
 
