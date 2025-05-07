@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AWS Security Identity Project 
 
 This project demonstrates the setup and configuraton of AWS IAM (Identity and Access Management) to manage secure access to AWS services.
@@ -22,9 +21,9 @@ The goal of this project is to:
 
 - then click on users
 
-- then click on Create user. i named my user *my-iam-asignment*
+- then click on Create user. i named my user *my-iam-assignment*
 
-- then click on your user so it would show more detailes about that user on that page you will see *security credentilals* click on it and look for *Multi-factor Authentication* click on it and it will lead you to where you can choose which way you would like to Authenticate.
+- then click on your user so it would show more detailes about that user on that page you will see *security credentials* click on it and look for *Multi-factor Authentication* click on it and it will lead you to where you can choose which way you would like to Authenticate.
 
 - add the user to a group
 
@@ -54,6 +53,4 @@ The goal of this project is to:
 ## Conclusion
 
 This IAM Security Identity project demonstrates a practical understanding of managing AWS Identity and Access Management. From creating users and roles to assigning precise permissions and testing access control, each step reflects core principles of cloud security. By implementing IAM best practices, we ensure secure, organized, and auditable access to AWS resources, laying a strong foundation for secure cloud infrastructure.
-=======
-# aws-security-identity
->>>>>>> 3b444f8e721fda735b5aac8695e40175113fa4ff
+
